@@ -1,0 +1,13 @@
+{
+  "name": "jp.kochounoyume.utility",
+  "displayName": "ButterflyDreamUtility",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "胡蝶の夢のマイライブラリ. \n\n・Unity標準のDebugクラスによるログ出力について\n\n　・実機リリースビルドの際に処理の呼び出しそのものから無効化します.\n\n　・Debuggerクラスという拡張ラッパークラスを提供します。Debuggerクラスでは着色のある簡単なログ出力が可能です.",
+  "keyword":[
+    "Debug",
+    "Log"
+  ],
+  "license":"MIT License",
+  "author":"kochounoyume"
+}
